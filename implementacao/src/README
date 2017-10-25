@@ -1,0 +1,11 @@
+Olá professor, como vai? 
+
+Seguinte, na pasta parte 1, encontra-se o meu bubble sort feito com o assembly do mars e o codigo em C que ele simula.
+Na pasta parte 2, encontra-se o meu codigo fonte em C do decodificador(nkDecoder.c),
+e também está o binario gerado pelo mars com base no meu bubble sort em assembly.
+
+o decodificado-out.asm é a saida gerada pelo meu decodificador, repare
+que existe uma instrução na qual ele falhou na identificação, essa função é 
+o la, não achei ela no mips reference card.
+
+
